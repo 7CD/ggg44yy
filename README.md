@@ -1,4 +1,4 @@
 # ggg44yy
 
 
-< intent://com.android.settings/#Intent;scheme=android-app;end >
+[site](https://7cd.github.io/ggg44yy/) 
